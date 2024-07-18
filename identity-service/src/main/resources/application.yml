@@ -1,0 +1,17 @@
+server:
+  port: 8086
+
+spring:
+  liquibase:
+    enabled: false
+  application:
+    name: IDENTITY-SERVICE
+  datasource:
+    url: ${DATABASE_URL}
+    username: ${DATABASE_USERNAME}
+    password: ${DATABASE_PASSWORD}
+
+eureka:
+  client:
+    service-url:
+      default-zone: http://localhost:8761/eureka/
