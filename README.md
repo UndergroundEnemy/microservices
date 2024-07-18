@@ -20,9 +20,7 @@ Responsible for retrieving industry data
 Provides APIs for experience creation and retrieval
 Built using Java and Spring Boot
 5. API gateway Service
-Responsible for payment processing and management
-Provides APIs for payment processing and transaction management
-Built using Go and Gin
+Responsible for request distribution for different services
 Architecture
 Our microservices architecture is designed to be highly available and scalable. Each service is deployed in a separate container and communicates with other services using RESTful APIs.
 
