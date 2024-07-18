@@ -1,10 +1,10 @@
-Microservices Repository
+# Microservices Repository
 This repository contains a collection of independent services that work together to form a robust and scalable system.
 
-Overview
+## Overview
 Our microservices architecture is designed to promote flexibility, scalability, and maintainability. Each service is responsible for a specific business capability and communicates with other services using APIs.
 
-Services
+## Services
 The following services are currently part of this repository:
 
 1. Identity Service
@@ -26,22 +26,22 @@ Built using Go and Gin
 Architecture
 Our microservices architecture is designed to be highly available and scalable. Each service is deployed in a separate container and communicates with other services using RESTful APIs.
 
-Service Communication
+## Service Communication
 Services communicate with each other using RESTful APIs
 Service discovery is handled using a registry (Netflix eureka server)
 
-Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to this repository, please follow these steps:
 
-Fork the repository
+## Fork the repository
 Create a new branch for your feature or fix
 Make your changes and commit them
 Create a pull request to merge your branch into main
 
-Acknowledgments
+### Acknowledgments
 We'd like to thank the following projects and libraries for their contributions to our microservices architecture:
 
-Java
-Spring Boot
-Spring Cloud
-Spring Web
+- __Java__
+- __Spring Boot__
+- __Spring Cloud__
+- __Spring Web__
