@@ -12,7 +12,5 @@ import org.mapstruct.ReportingPolicy;
         builder = @Builder(disableBuilder = true))
 public interface IndustryMapper {
 
-    Industry fromDtoToEntity(final IndustryDto industry);
-
     IndustryDto fromEntityToDto(final Industry industry);
 }

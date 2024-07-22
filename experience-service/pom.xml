@@ -95,9 +95,6 @@
 			<version>2.2.0</version>
 		</dependency>
 
-
-
-
 	</dependencies>
 	<dependencyManagement>
 		<dependencies>
