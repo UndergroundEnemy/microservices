@@ -43,3 +43,5 @@ We'd like to thank the following projects and libraries for their contributions 
 - __Spring Boot__
 - __Spring Cloud__
 - __Spring Web__
+- - __Spring Security__
+
