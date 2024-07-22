@@ -39,7 +39,7 @@ Create a pull request to merge your branch into main
 ### Acknowledgments
 We'd like to thank the following projects and libraries for their contributions to our microservices architecture:
 
-- __Java__
+- __Java 17__ 
 - __Spring Boot__
 - __Spring Cloud__
 - __Spring Web__
