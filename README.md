@@ -37,7 +37,7 @@ Make your changes and commit them
 Create a pull request to merge your branch into main
 
 ### Acknowledgments
-We'd like to thank the following projects and libraries for their contributions to our microservices architecture:
+Tech stack:
 
 - __Java 17__ 
 - __Spring Boot__
